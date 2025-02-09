@@ -16,7 +16,7 @@
 
 ### 3. Plazo de Retiro de Equipos
 - Una vez realizada la reparación o emitido un presupuesto no aceptado, el cliente tiene 30 días corridos para retirar su equipo.
-Pasado este plazo, se aplicará un cargo por almacenamiento de $XX por día.
+Pasado este plazo, se aplicará un cargo por almacenamiento por día.
 - Si el equipo no es retirado dentro de los 60 días corridos, se considerará abandonado, y Geek Servicio Técnico Informático podrá disponer de él sin previo aviso.
 
 ### 4. Limitaciones de la Garantía
@@ -28,7 +28,7 @@ Pasado este plazo, se aplicará un cargo por almacenamiento de $XX por día.
   - No se garantiza la conservación de configuraciones previas, incluyendo licencias de software, programas instalados o configuraciones personalizadas. Algunas reparaciones pueden requerir formateo del equipo. Es responsabilidad del cliente informar si no desea esta acción.
 - Geek Servicio Técnico Informático no se hace responsable por la pérdida de información si el cliente no ha solicitado expresamente un respaldo (backup) antes de la reparación.
 - La garantía no cubre daños posteriores causados por:
-  - Uso indebido, golpes, sobrecarga eléctrica, derrame de líquidos.
+  - Uso indebido, golpes, sobrecarga eléctrica, derrame de líquidos, etc.
   - Virus informáticos adquiridos luego de la reparación.
   - Fallas intermitentes o irreproducibles en el taller.
 
