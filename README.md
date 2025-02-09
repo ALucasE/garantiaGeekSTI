@@ -37,7 +37,7 @@ Pasado este plazo, se aplicará un cargo por almacenamiento por día.
 
 ### 6. Métodos de Pago y Facturación
 - Se aceptan los siguientes métodos de pago: efectivo, transferencia bancaria y tarjetas de débito/crédito.
-- Se emiten facturas A y B según corresponda.
+- Se emiten facturas C.
 - Para reparaciones que requieran repuestos costosos, se solicitará una seña del 50% antes de encargar los materiales.
 
 ### 7. Requisitos para Hacer Válida la Garantía
