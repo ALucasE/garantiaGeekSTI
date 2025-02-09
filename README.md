@@ -54,7 +54,7 @@ Pasado este plazo, se aplicará un cargo por almacenamiento por día.
 
 
 
-**Garantía y Condiciones Generales de Servicio**  
+# **Garantía y Condiciones Generales de Servicio**  
 **Geek Servicio Técnico Informático**
 
 ### 1. Presupuestos y Revisión de Equipos
