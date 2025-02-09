@@ -60,7 +60,7 @@ Pasado este plazo, se aplicará un cargo por almacenamiento por día.
 ### 1. Presupuestos y Revisión de Equipos
 - Todos los presupuestos por reparaciones y/o servicios técnicos son sin cargo y sin compromiso, quedando a criterio del cliente su aceptación.
 - Los presupuestos tienen una validez de **10 días corridos**. Pasado este período, serán recalculados. Esto aplica tanto a presupuestos aceptados como a aquellos pendientes de aprobación.
-- La revisión es bonificada para proporcionarte un presupuesto detallado. **Si decides no proceder con la reparación, la revisión tendrá un cargo de $1000** para cubrir el tiempo y los recursos invertidos en la evaluación.
+- La revisión es bonificada para proporcionarte un presupuesto detallado. **Si decides no proceder con la reparación, la revisión tendrá un cargo** para cubrir el tiempo y los recursos invertidos en la evaluación.
 - Si el cliente demora en aceptar el presupuesto, se recomienda el retiro del equipo dentro de los **10 días corridos** desde su emisión.
 
 ### 2. Garantía de Servicio
@@ -73,11 +73,11 @@ Pasado este plazo, se aplicará un cargo por almacenamiento por día.
 
 ### 3. Plazo de Retiro de Equipos
 - Una vez realizada la reparación o emitido un presupuesto no aceptado, el cliente tiene **30 días corridos** para retirar su equipo.
-- Pasado este plazo, se aplicará un cargo por almacenamiento de **$XX por día**.
+- Pasado este plazo, se aplicará un cargo por almacenamiento **por día**.
 - Si el equipo no es retirado dentro de los **60 días corridos**, se considerará **abandonado**, y **Geek Servicio Técnico Informático podrá disponer de él sin previo aviso**.
 
 ### 4. Limitaciones de la Garantía
-- La garantía **no cubre fallas** provocadas por el mal uso del equipo, virus, software no autorizado, golpes, caídas, derrames de líquidos o sobrecarga eléctrica.
+- La garantía **no cubre fallas** provocadas por el mal uso del equipo, virus, software no autorizado, golpes, caídas, derrames de líquidos, sobrecarga eléctrica, etc.
 - Se recomienda conectar los equipos a un **estabilizador con fusible y una toma con descarga a tierra** para evitar daños por fluctuaciones eléctricas.
 - En caso de pérdida de información, **Geek Servicio Técnico Informático no se hace responsable si el cliente no indicó previamente qué datos debían ser respaldados**.
 
@@ -86,7 +86,7 @@ Pasado este plazo, se aplicará un cargo por almacenamiento por día.
 
 ### 6. Métodos de Pago y Facturación
 - Se aceptan los siguientes métodos de pago: **efectivo, transferencia bancaria y tarjetas de débito/crédito**.
-- Se emiten **facturas A y B** según corresponda.
+- Se emiten **facturas C**.
 - Para reparaciones que requieran repuestos costosos, se solicitará una **seña del 50%** antes de encargar los materiales.
 
 ### 7. Estándares de Calidad y Precios
