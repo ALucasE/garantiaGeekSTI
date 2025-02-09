@@ -1,2 +1,52 @@
-# garantiaGeekSTI
-Documentacion de la garantía de los servicios tecnicos
+# Garantía y Condiciones Generales de Servicio
+## Geek Servicio Técnico Informático
+
+### 1. Presupuestos y Revisión de Equipos
+- Todos los presupuestos por reparaciones y/o servicios técnicos son sin cargo y sin compromiso, quedando a criterio del cliente su aceptación.
+- Los presupuestos tienen una validez de 10 días corridos. Pasado este período, serán recalculados. Esto aplica tanto a presupuestos aceptados como a aquellos pendientes de aprobación.
+- La revisión es bonificada para proporcionarte un presupuesto detallado. Si decides no proceder con la reparación, la revisión tendrá un cargo, para cubrir el tiempo y los recursos invertidos en la evaluación.
+- Si el cliente demora en aceptar el presupuesto, se recomienda el retiro del equipo dentro de los 10 días corridos desde su emisión.
+
+### 2. Garantía de Reparaciones
+- Todas las reparaciones realizadas cuentan con 60 días corridos de garantía a partir de la fecha de entrega, cubriendo defectos en los trabajos realizados y/o materiales utilizados, sin costo adicional para el cliente.
+- La garantía del hardware nuevo es la otorgada por el fabricante. Para hardware usado, la garantía es de 7 días corridos.
+- La garantía se brinda en el mismo lugar donde se realizó el servicio (domicilio del cliente o nuestro taller).
+- Los equipos reparados serán entregados con una faja de garantía, indicando la fecha y el tipo de reparación realizada. Cualquier adulteración de esta faja anulará la garantía sin excepción.
+- Se entregarán los equipos con software de seguridad informática instalado (antivirus). Si este software es modificado o eliminado, la garantía quedará sin efecto.
+
+### 3. Plazo de Retiro de Equipos
+- Una vez realizada la reparación o emitido un presupuesto no aceptado, el cliente tiene 30 días corridos para retirar su equipo.
+Pasado este plazo, se aplicará un cargo por almacenamiento de $XX por día.
+- Si el equipo no es retirado dentro de los 60 días corridos, se considerará abandonado, y Geek Servicio Técnico Informático podrá disponer de él sin previo aviso.
+
+### 4. Limitaciones de la Garantía
+- En los servicios de recuperación de datos, no se garantiza el éxito al 100%.
+- Los servicios de mantenimiento, optimización, limpieza y eliminación de virus no garantizan que el problema no vuelva a ocurrir, ya que esto depende del uso del equipo (sitios web visitados, dispositivos externos conectados, etc.).
+- La garantía no es válida si el equipo funciona en condiciones inadecuadas, como:
+  - Falta de un estabilizador de tensión con fusible y capacidad adecuada.
+  - Falta de conexión a una toma de corriente con descarga a tierra.
+  - No se garantiza la conservación de configuraciones previas, incluyendo licencias de software, programas instalados o configuraciones personalizadas. Algunas reparaciones pueden requerir formateo del equipo. Es responsabilidad del cliente informar si no desea esta acción.
+- Geek Servicio Técnico Informático no se hace responsable por la pérdida de información si el cliente no ha solicitado expresamente un respaldo (backup) antes de la reparación.
+- La garantía no cubre daños posteriores causados por:
+  - Uso indebido, golpes, sobrecarga eléctrica, derrame de líquidos.
+  - Virus informáticos adquiridos luego de la reparación.
+  - Fallas intermitentes o irreproducibles en el taller.
+
+### 5. Privacidad y Protección de Datos
+- Geek Servicio Técnico Informático garantiza la confidencialidad de los datos almacenados en los dispositivos de los clientes. No se accederá a información personal sin autorización expresa.
+
+### 6. Métodos de Pago y Facturación
+- Se aceptan los siguientes métodos de pago: efectivo, transferencia bancaria y tarjetas de débito/crédito.
+- Se emiten facturas A y B según corresponda.
+- Para reparaciones que requieran repuestos costosos, se solicitará una seña del 50% antes de encargar los materiales.
+
+### 7. Requisitos para Hacer Válida la Garantía
+- Para hacer uso de la garantía, el cliente debe presentar esta hoja de servicio junto con la factura correspondiente, sin excepciones.
+
+### 8. Estándares de Calidad y Precios
+- Todos los servicios, reparaciones y estándares de calidad de Geek Servicio Técnico Informático se encuentran bajo las normativas de la AAPRI (Asociación Argentina de Profesionales Informáticos).
+- Los precios de los servicios están sujetos a actualización según costos de repuestos y tarifas establecidas por el sector.
+
+
+
+📌 Recomendación: Para un correcto funcionamiento y mayor vida útil de su equipo, recomendamos realizar mantenimiento, limpieza y optimización de 3 a 4 veces al año.
